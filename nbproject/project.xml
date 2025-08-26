@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>org.netbeans.modules.php.project</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/php-project/1">
+            <name>StudentAttendanceMonitoring</name>
+        </data>
+        <spellchecker-wordlist xmlns="http://www.netbeans.org/ns/spellchecker-wordlist/1">
+            <word>didya</word>
+            <word>DVS</word>
+            <word>DVSPT</word>
+            <word>Dvsptsams</word>
+            <word>SAM</word>
+            <word>SAMS</word>
+        </spellchecker-wordlist>
+    </configuration>
+</project>
