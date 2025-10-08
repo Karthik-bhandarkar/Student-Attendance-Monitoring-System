@@ -174,6 +174,10 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ## 📬 Contact
 
-Karthik Bhandarkar - [your.email@example.com](mailto:your.email@example.com)
+**Karthik Bhandarkar**
+
+* **GitHub:** [@Karthik-bhandarkar](https://github.com/Karthik-bhandarkar)
+* **LinkedIn:** [linkedin.com/in/karthik-bhandarkar](https://www.linkedin.com/in/karthik-bhandarkar)
+* **Email:** [karthikbhandarkar2004@gmail.com](mailto:karthikbhandarkar2004@gmail.com)
 
 Project Link: [https://github.com/Karthik-bhandarkar/Student-Attendance-Monitoring-System](https://github.com/Karthik-bhandarkar/Student-Attendance-Monitoring-System)
